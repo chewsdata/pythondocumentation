@@ -1,5 +1,7 @@
 # Welcome! 
 
+https://colab.research.google.com/drive/1kdKb4ZCpIATurCHxD9jgkxafgS4Ic9yK?usp=sharing
+
 ## This notebook will teach you about reading the text file in the Python Programming Language. By the end of this lab, you'll know how handle various data files, use control statments and iterate fluently in Python.
 
 <center><h2>Table of Contents</h2>
